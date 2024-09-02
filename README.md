@@ -1,1 +1,2 @@
 ![](Analysisofexpenses.jpg)
+![](Analysisofbusinesslines.jpg)
