@@ -30,6 +30,6 @@ To calculate key financial metrics, such as Gross Profit, Operating Expenses (OP
 To create income statements or other financial summaries.
 
 
-![](.jpg)
+![](.Timebasedanailysis.jpg)
 ![](Analysisofbusinesslines.jpg)
 ![](Analysisofexpenses.jpg)
