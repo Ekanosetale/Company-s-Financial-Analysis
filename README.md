@@ -2,7 +2,7 @@
 
 This is Business Financial Dataset containing financial records across various business lines. It is structured for analyzing revenue and expenses, to build financial reports and perform profitability analysis.
 
-Dataset Structure:
+**Dataset Structure**
 
 Year: The year in which the transaction or financial record occurred.
 
@@ -11,7 +11,6 @@ Month - name: The name of the month.
 Month - sequence: The numerical sequence of the month.
 
 Date: The specific date of the financial record.
-
 
 Business Line: Represents the different segments or lines of business within the company (e.g., "Nutrition and Food Supplements").
 
@@ -23,7 +22,7 @@ Revenue / Expense Group: A broader grouping that identifies the type of financia
 
 Revenue or expense: Identifies whether the transaction is classified as "Revenue" or "Expense."
 
-Purpose of the Analysis:
+**Purpose of the Analysis**
 
 To analyze the performance of various business lines.
 To track revenue and expense trends over time.
