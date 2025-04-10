@@ -31,6 +31,12 @@ To create income statements or other financial summaries.
 
 ## Discussion Of Findings 
 
+
+
+![](0001.jpg)
+![](0002.jpg)
+![](0003.jpg)
+![](0004.jpg)
 Revenue Decrease Despite Cost Control: The company saw a revenue decline of 6.80% ($1.4M to $1.3M), but managed to cut expenses by 6.74% ($1.11M to $1.0M), showing effective cost control strategies.
 
 Sports Equipment Dominates Revenue, But Not Profit: With $2.09M in revenue, Sports Equipment was the highest contributor but also the most expensive to run, incurring $2.53M in expenses, resulting in a negative profit impact.
@@ -42,10 +48,6 @@ Consulting Services are Underutilized: N&F Supplements earned $281,700 from cons
 Q1 is the Strongest Quarter: All business lines had either peak or high revenues in Q1. Sportswear led with $1.35M, Sports Equipment had $2.26M, and N&F Supplements had $476,550.
 
 Expense Peaks Threaten Profitability: Sports Equipment's Q2 COGS ($954,200) and Sportswear’s steady COGS ($2M total) indicate operational inefficiencies that need addressing.
-
-![](Timebasedanailysis.jpg)
-![](Analysisofbusinesslines.jpg)
-![](Analysisofexpenses.jpg)
 
 # Recommendation
 1. Product Profitability Review: Conduct a thorough profitability analysis of all product lines to identify and eliminate low-margin or loss-making products, especially within Sports Equipment.
